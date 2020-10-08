@@ -29,7 +29,7 @@ brew install gcal
 brew install cloc
 brew install ack
 brew install jq
-brew install vim
+# brew install vim
 brew install ctop
 
 # Core
@@ -43,7 +43,7 @@ brew install ruby
 brew install yarn
 
 # DevOps
-brew install docker-compose
+# brew install docker-compose
 
 # Fonts
 brew tap homebrew/cask-fonts
